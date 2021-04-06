@@ -23,5 +23,4 @@ $(document).ready(function() {
       }
     });
   }, 200);
-
-}); //document.ready ends - do not delete!!!
+});
